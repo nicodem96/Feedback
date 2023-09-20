@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nicodem96
+- 👋 Hi, I’m Nicola!
 - 👀 I’m interested in Data Science and Backend Development! 
 - 🌱 I’m currently learning Scikit-learn and Django
-- 💞️ I’m looking to collaborate on Data Science Projects or web apps
+- 💞️ I’m looking to collaborate on Data Science Projects or Web Apps
 - 📫 How to reach me nicolademuru@gmail.com
 
 <!---
